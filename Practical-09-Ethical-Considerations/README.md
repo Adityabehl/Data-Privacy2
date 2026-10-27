@@ -8,7 +8,7 @@ To study the ethical issues involved in collecting, processing, storing, and sha
 
 ⸻
 
- Objectives
+## Objectives
 
 * To understand data privacy ethics.
 * To identify ethical issues related to personal data.
@@ -225,7 +225,7 @@ Users may not understand how their information is being processed.
 
 ⸻
 
- Recommendations
+## Recommendations
 
 Organizations using facial recognition or other sensitive technologies should consider:
 
@@ -244,7 +244,7 @@ Organizations using facial recognition or other sensitive technologies should co
 
 ⸻
 
- Ethical Risk Assessment
+## Ethical Risk Assessment
 
 Risk	Possible Impact	Mitigation
 Unauthorized access	Privacy loss	Access controls and encryption
@@ -257,7 +257,7 @@ Surveillance	Reduced privacy	Governance and defined use cases
 
 ⸻
 
- Conclusion
+## Conclusion
 
 Facial recognition demonstrates that technological capability does not automatically mean that every possible use is ethically appropriate.
 
@@ -267,7 +267,7 @@ Ethical privacy practices help organizations balance technological innovation wi
 
 ⸻
 
- References
+## References
 
 * NIST Privacy Framework
 * NIST Artificial Intelligence Risk Management Framework
