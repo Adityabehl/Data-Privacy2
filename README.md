@@ -32,4 +32,4 @@ pip install -r requirements.txt
 
 Each practical contains a README explaining the aim, theory, procedure, code/files, expected result, and conclusion.
 
-> This repository is for educational use. Do not use real personal or confidential data in these exercises.
+
