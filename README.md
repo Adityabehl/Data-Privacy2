@@ -15,21 +15,8 @@ A collection of practical exercises for the Data Privacy course (GE6d/DSE: Data 
 9. Ethical Considerations in Data Privacy
 10. Data Privacy Case Studies
 
-## Requirements
-
-- Python 3.10 or newer
-- pandas
-- numpy
-- cryptography
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Repository structure
 
-Each practical contains a README explaining the aim, theory, procedure, code/files, expected result, and conclusion.
+Each practical contains a README explaining the aim, theory, procedure, expected result, and conclusion.
 
 
