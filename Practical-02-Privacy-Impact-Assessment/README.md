@@ -44,7 +44,7 @@ Normally     / Review
 
 ⸻
 
-5. Privacy Risks
+## 5. Privacy Risks
 
 Risk	Impact	Mitigation
 Unauthorized Access	High	RBAC + MFA
@@ -59,7 +59,7 @@ Re-identification	High	Pseudonymization
 
 ⸻
 
-6. Privacy Protection Measures
+## 6. Privacy Protection Measures
 
 The system should implement:
 
@@ -75,7 +75,7 @@ The system should implement:
 
 ⸻
 
-7. AI Privacy Risks
+## 7. AI Privacy Risks
 
 AI can introduce additional privacy risks such as:
 
@@ -92,7 +92,7 @@ Regularly audit the AI model, minimize training data, use protected datasets, mo
 
 ⸻
 
-8. Privacy by Design
+## 8. Privacy by Design
 
 The system should follow these principles:
 
@@ -109,7 +109,7 @@ Privacy by Design
 
 ⸻
 
-9. Recommendations
+## 9. Recommendations
 
 1. Collect only data required for fraud detection.
 2. Never store UPI PINs or authentication secrets.
@@ -124,7 +124,7 @@ Privacy by Design
 
 ⸻
 
-10. Conclusion
+## 10. Conclusion
 
 The AI-Based UPI Fraud Detection System can improve digital payment security, but it also processes sensitive financial information. The major privacy risks include unauthorized access, data breaches, excessive data collection, profiling, AI bias, and inappropriate data retention.
 
