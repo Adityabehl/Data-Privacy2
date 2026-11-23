@@ -7,8 +7,6 @@ To analyze real-world privacy incidents and identify lessons for **prevention** 
 1. [Equifax Data Breach (2017)](#1-equifax-data-breach-2017)
 2. [Cambridge Analytica / Facebook Data Controversy (2018)](#2-cambridge-analytica--facebook-data-controversy-2018)
 3. [Marriott (Starwood) Data Breach (2018)](#3-marriott-starwood-data-breach-2018)
-4. [Comparative Summary](#4-comparative-summary)
-5. [Overall Lessons](#5-overall-lessons)
 
 ---
 
